@@ -1,29 +1,35 @@
 {
-  "name": "split-text-js",
-  "version": "1.0.1",
-  "description": "Javascript text splitter for easy and seo friendly animations, allows text, word, spaces and special characters splitting.",
-  "main": "SplitTextJS.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SaucySpray/split-text-js.git"
-  },
-  "keywords": [
-    "split",
-    "splitting",
-    "split-text-js",
-    "split text",
-    "text splitter",
-    "text animation",
-    "animate text",
-    "chars animation",
-    "javascript",
-    "seo",
-    "seo friendly"
-  ],
-  "author": "Alexandre Chabeau",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/SaucySpray/split-text-js/issues"
-  },
-  "homepage": "https://github.com/SaucySpray/split-text-js#readme"
+    "name": "split-text-ts",
+    "version": "1.0.0",
+    "description": "TypeScript text splitter for easy and seo friendly animations, allows text, word, spaces and special characters splitting.",
+    "main": "SplitTextTS.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SaucySpray/split-text-ts.git"
+    },
+    "keywords": [
+        "split",
+        "splitting",
+        "split-text-js",
+        "split text",
+        "text splitter",
+        "text animation",
+        "animate text",
+        "chars animation",
+        "javascript",
+        "seo",
+        "seo friendly"
+    ],
+    "author": "Alexandre Chabeau",
+    "contributors": [
+        "Wishva Kalhara"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SaucySpray/split-text-js/issues"
+    },
+    "homepage": "https://github.com/SaucySpray/split-text-js#readme",
+    "dependencies": {
+        "split-text-ts": "file:"
+    }
 }
